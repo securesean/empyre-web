@@ -7,7 +7,7 @@ EmPyre Web utilizes the EmPyre REST API Server. It is a web interface for using 
 # Run EmPyre REST API Server
 
 
-Get EmPyre: https://github.com/adaptivethreat/EmPyre
+Get EmPyre: https://github.com/EmpireProject/EmPyre
 
 ```
 ./empyre --headless --restport port --username empyre_username --password empyre_password
